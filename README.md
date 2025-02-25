@@ -36,4 +36,4 @@ Este proyecto tiene como objetivo permitir a los estudiantes:
    ```bash
    git clone <URL_DEL_REPOSITORIO>
 
-#cambio por juan
+#juan bello https://github.com/bello-juan
