@@ -37,3 +37,7 @@ Este proyecto tiene como objetivo permitir a los estudiantes:
    git clone <URL_DEL_REPOSITORIO>
 
 #juan bello https://github.com/bello-juan
+ /\_/\  
+( o.o ) 
+/  ^  \
+
