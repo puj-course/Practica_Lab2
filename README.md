@@ -37,7 +37,8 @@ Este proyecto tiene como objetivo permitir a los estudiantes:
    ```bash
    git clone <URL_DEL_REPOSITORIO>
 
-Johan Sebastian Mendez Ibarra - Perfil: https://github.com/Seb-233
+**Juan Felipe Romero** - [GitHub](https://github.com/Alastornoah2
 
-## Contribuidores
-- **Juan Felipe Romero** - [GitHub](https://github.com/Alastornoah2)
+**Johan Sebastian Mendez Ibarra** - [Github](https://github.com/Seb-233)
+
+**Nicolas Diaz Granados Cano** - [Github](https://github.com/NDGC14)
