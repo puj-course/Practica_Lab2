@@ -40,3 +40,4 @@ Este proyecto tiene como objetivo permitir a los estudiantes:
 ### Santiago Avila esta haciendo el taller 2 link git:https://github.com/SantiAvilal13
 ### Santiago Avila esta haciendo el taller 2
 ### David Piñeros realizando el taller https://github.com/DavidSP12
+### Ivan Pardo esta haciendo el taller 2 https://github.com/Dimich1tri
