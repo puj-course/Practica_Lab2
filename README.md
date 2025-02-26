@@ -37,8 +37,17 @@ Este proyecto tiene como objetivo permitir a los estudiantes:
    ```bash
    git clone <URL_DEL_REPOSITORIO>
 
+<<<<<<< HEAD
 
 ## Contribuidores
 - **Juan Felipe Romero** - [GitHub](https://github.com/Alastornoah2)
 - **Juan Felipe Gutierrez** - [GitHub](https://github.com/juanguti1)
 
+=======
+#juan bello https://github.com/bello-juan
+ /\_/\  
+( o.o ) 
+/  ^  \
+#Laura Aponte https://github.com/Laura-Ap37
+#Santiago Galindo https://github.com/GalindoS420
+>>>>>>> f8c54a3510fb8f7170767a1df571338fbeef83e3
