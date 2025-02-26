@@ -42,3 +42,5 @@ Este proyecto tiene como objetivo permitir a los estudiantes:
 **Johan Sebastian Mendez Ibarra** - [Github](https://github.com/Seb-233)
 
 **Nicolas Diaz Granados Cano** - [Github](https://github.com/NDGC14)
+
+**Juan Esteban Vera Garzon** - [GitHub](https://github.com/Epistoler32)
