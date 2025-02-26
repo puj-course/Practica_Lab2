@@ -39,4 +39,4 @@ Este proyecto tiene como objetivo permitir a los estudiantes:
 
 
 ## Contribuidores
-- **Gerardo Elián Martínez Ramírez** - [GitHub](https://github.com/Alastornoah2)
+- **Gerardo Elián Martínez Ramírez** - [GitHub](https://github.com/Eliqn)
