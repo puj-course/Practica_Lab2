@@ -37,7 +37,10 @@ Este proyecto tiene como objetivo permitir a los estudiantes:
    ```bash
    git clone <URL_DEL_REPOSITORIO>
 
+
 ## Contribuidores
 - **Daniel Santiago Avila Medina** - [GitHub](https://github.com/dsavilam)
 - **Santiago Avila** - [GitHub](https://github.com/SantiAvilal13)
 - **David Piñeros** - [GitHub](https://github.com/DavidSP12)
+- **Ivan Pardo** - [GitHub](https://github.com/Dimich1tri)
+
