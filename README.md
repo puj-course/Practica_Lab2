@@ -37,6 +37,6 @@ Este proyecto tiene como objetivo permitir a los estudiantes:
    git clone <URL_DEL_REPOSITORIO>
 
 
-
 ### Santiago Avila esta haciendo el taller 2 link git:https://github.com/SantiAvilal13
-
+### Santiago Avila esta haciendo el taller 2
+### David Piñeros realizando el taller https://github.com/DavidSP12
