@@ -41,3 +41,4 @@ Este proyecto tiene como objetivo permitir a los estudiantes:
 ( o.o ) 
 /  ^  \
 #Laura Aponte https://github.com/Laura-Ap37
+#Santiago Galindo https://github.com/GalindoS420
