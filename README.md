@@ -1,4 +1,3 @@
-
 # Club de Superhéroes - Gestión de Héroes y Misiones
 
 ## Descripción
@@ -38,5 +37,3 @@ Este proyecto tiene como objetivo permitir a los estudiantes:
    git clone <URL_DEL_REPOSITORIO>
 
 
-## Contribuidores
-- **Juan Felipe Romero** - [GitHub](https://github.com/Alastornoah2)
