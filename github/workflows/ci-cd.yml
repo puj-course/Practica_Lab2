@@ -2,10 +2,10 @@ name: CI/CD
 'on':
   push:
     branches:
-      - develop_g
+      - develop_g6
   pull_request:
     branches:
-      - feactures-nombre
+      - feactures-elian
 jobs:
   build:
     runs-on: ubuntu-latest
