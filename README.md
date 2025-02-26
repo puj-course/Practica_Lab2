@@ -39,4 +39,4 @@ Este proyecto tiene como objetivo permitir a los estudiantes:
 
 
 ### Santiago Avila esta haciendo el taller 2
-### David Piñeros https://github.com/DavidSP12
+### David Piñeros realizando el taller https://github.com/DavidSP12
