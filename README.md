@@ -36,4 +36,8 @@ Este proyecto tiene como objetivo permitir a los estudiantes:
    ```bash
    git clone <URL_DEL_REPOSITORIO>
 
-
+#juan bello https://github.com/bello-juan
+ /\_/\  
+( o.o ) 
+/  ^  \
+#Laura Aponte https://github.com/Laura-Ap37
