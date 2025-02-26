@@ -1,3 +1,4 @@
+
 # Club de Superhéroes - Gestión de Héroes y Misiones
 
 ## Descripción
@@ -37,7 +38,9 @@ Este proyecto tiene como objetivo permitir a los estudiantes:
    git clone <URL_DEL_REPOSITORIO>
 
 
-### Santiago Avila esta haciendo el taller 2 link git:https://github.com/SantiAvilal13
-### Santiago Avila esta haciendo el taller 2
-### David Piñeros realizando el taller https://github.com/DavidSP12
-### Ivan Pardo esta haciendo el taller 2 https://github.com/Dimich1tri
+## Contribuidores
+- **Daniel Santiago Avila Medina** - [GitHub](https://github.com/dsavilam)
+- **Santiago Avila** - [GitHub](https://github.com/SantiAvilal13)
+- **David Piñeros** - [GitHub](https://github.com/DavidSP12)
+- **Ivan Pardo** - [GitHub](https://github.com/Dimich1tri)
+
