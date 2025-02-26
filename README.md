@@ -1,3 +1,4 @@
+
 # Club de Superhéroes - Gestión de Héroes y Misiones
 
 ## Descripción
@@ -35,3 +36,7 @@ Este proyecto tiene como objetivo permitir a los estudiantes:
 1. Clona el repositorio:
    ```bash
    git clone <URL_DEL_REPOSITORIO>
+
+
+## Contribuidores
+- **Gerardo Elián Martínez Ramírez** - [GitHub](https://github.com/Eliqn)
