@@ -20,7 +20,7 @@ public class HeroService {
     }
 
     public Optional<Hero> getHeroById(Long id) {
-        return heroRepository.findById(id);
+        return heroRepository.findById(id); //help me
     }
 
     public Hero createHero(Hero hero) {
